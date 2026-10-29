@@ -3,8 +3,8 @@
 Python ile üretilmiş iki yazı sanatı çalışması. İkisi de görseli "TÜRKİYE" kelimesinin harfleriyle çiziyor.[cite: 3]
 
 <p align="center">
-  <img src="ataturk.png" width="48%" alt="Atatürk Spirali">
-  <img src="Türkiye.png" width="48%" alt="Türkiye Spirali">
+  <img src="ataturk.png" width="45%" alt="Atatürk Spirali">
+  <img src="Türkiye.png" width="45%" alt="Türkiye Spirali">
 </p>
 
 ## 1. Atatürk Spirali[cite: 3]
