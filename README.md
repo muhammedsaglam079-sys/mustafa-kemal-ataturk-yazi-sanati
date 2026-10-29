@@ -1,2 +1,6 @@
-# mustafa-kemal-ataturk-yazi-sanati
-Python ile geliştirilmiş Atatürk ve Türkiye yazı sanatı projesi.
+# Atatürk & Türkiye Yazı Sanatı 🇹🇷
+
+Python kullanılarak hazırlanmış yazı sanatı görselleştirme çalışması.
+
+## Atıf / Teşekkür
+Bu proje, **[iremcnar](https://github.com/iremcnar)** tarafından geliştirilen çalışmadan ilham alınarak hazırlanmıştır. Orijinal projeye katkılarından dolayı teşekkür ederim.
