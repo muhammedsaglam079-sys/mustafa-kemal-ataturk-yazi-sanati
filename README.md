@@ -29,6 +29,6 @@ Herhangi bir fotoğrafı spiral yazıya çevirir. Varsayılan görsel `Türkiye.
 
 ```bash
 pip install pillow numpy
-
+```
 ## Atıf / Teşekkür
 Bu proje, **[iremcnar](https://github.com/iremcnar)** tarafından geliştirilen çalışmadan ilham alınarak hazırlanmıştır. Orijinal projeye katkılarından dolayı teşekkür ederim.
